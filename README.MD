@@ -25,8 +25,8 @@ Após a execução do script, utilize os comandos abaixo para verificar se as fe
 Clone este repositório ou copie o script para um arquivo local:
 
 ```bash
-git clone <URL_DO_REPOSITÓRIO>
-cd <DIRETÓRIO_CLONADO>
+git clone git@github.com:Chyper00/setup-java-expo-init.git
+cd setup-java-expo-init
 ```
 
 ## Torne o script executável:
